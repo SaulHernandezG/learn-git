@@ -1,0 +1,6 @@
+INFRAESTRUCTURE DOCUMENTATION 
+================================
+1.- NETWORK
+2.- DRIVES
+3.- SERVERS
+4.- ANYTHING
